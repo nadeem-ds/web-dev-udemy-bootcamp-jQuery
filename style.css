@@ -1,0 +1,22 @@
+body {
+  background-color: aquamarine;
+}
+.big-title {
+  font-size: 4rem;
+  font-family: cursive;
+  color: yellow;
+}
+.margin-50 {
+  margin: 50px;
+}
+button,
+.button-click {
+  margin: 19px;
+  padding: 10px;
+  font-size: 2rem;
+  background-color: rgb(16, 230, 158);
+  border-radius: 12px;
+  border-color: wheat;
+  color: yellow;
+  outline: none;
+}
